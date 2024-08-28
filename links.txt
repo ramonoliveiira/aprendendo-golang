@@ -1,0 +1,1 @@
+https://aprendagolang.com.br/dicas-e-praticas-sobre-error-handling-em-go/
